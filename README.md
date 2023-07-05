@@ -18,4 +18,4 @@ I'm currently working on [Neapolitan](https://github.com/carltongibson/neapolita
 
 For the last two decades I've worked on projects for some of the world's largest companies. (And some of the smallest!) 
 
-I'm in a transition since stepping down as Fellow, so if you need help on your Django project, do get in touch. 
+I'm in a transition since stepping down as Fellow, so now is a good time to talk. If you need help on your Django project, do get in touch. 
