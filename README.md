@@ -12,7 +12,7 @@ I've given lots of talks, most recently at DjangoCon Europe, 2023:
 
 Enjoy! 🍿
 
-I'm currently working on [Neapolitan](https://github.com/carltongibson/neapolitan), [`django-template-partials`](https://github.com/carltongibson/django-template-partials), and (_at last!) [Button](https://btn.dev/), my guide to simpler deployments. Do check those out 👀
+I'm currently working on [Neapolitan](https://github.com/carltongibson/neapolitan), [`django-template-partials`](https://github.com/carltongibson/django-template-partials), and (_at last!_) [Button](https://btn.dev/), my guide to simpler deployments. Do check those out 👀
 
 ## Do you need help with your Django project? 
 
