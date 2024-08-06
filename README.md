@@ -6,9 +6,9 @@ Between 2018 and the end of March 2023 I was a **Django Fellow**, and I've spent
 
 I have [a blog on my website](https://noumenal.es/), and together with @wsvincent co-host the [Django Chat podcast](https://djangochat.com). 
 
-I've given lots of talks, most recently at DjangoCon Europe, 2023: 
+I've given lots of talks, most recently at DjangoCon Europe, 2024: 
 
-[![DjangoCon Europe 2023 | Yak-shaving to Where the Puck is Going to Be.](https://img.youtube.com/vi/_3oGI4RC52s/0.jpg)](https://www.youtube.com/watch?v=_3oGI4RC52s)
+[![DjangoCon Europe 2023 | Yak-shaving to Where the Puck is Going to Be.](https://img.youtube.com/vi/cLHVM31Rv6A/0.jpg)](https://www.youtube.com/watch?v=cLHVM31Rv6A)
 
 Enjoy! 🍿
 
